@@ -1,0 +1,34 @@
+{
+  "name": "AssassinsCODE",
+  "version": "0.0.1",
+  "description": "Assassins.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "chalk": "^4.1.0",
+    "canvas": "^2.6.1",
+    "snekfetch": "^4.0.4",
+    "dblapi.js": "^2.4.1",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.4.5",
+    "generate-password": "^1.6.0",
+    "math-expression-evaluator": "^1.3.7",
+    "quick.db": "^7.1.2",
+    "moment": "^2.29.1",
+    "parse-ms": "^2.1.0",
+    "gifencoder": "^2.0.1",
+    "moment-duration-format": "^2.3.2",
+    "os-utils": "^0.0.14"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
